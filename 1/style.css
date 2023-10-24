@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: lightblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+h2 {
+    text-align: left;
+    line-height: 2em
+}
+
+ul {
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: underline;
+}
+
+img {
+    display: inline-block;
+}
+
+a:visited {
+    color: black;
+}
